@@ -1,0 +1,126 @@
+body{
+  margin:0;
+  text-align:center;
+  font-family:'garamond',Helvetica,serif;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size:5.625rem; /*** pake persen atau embiar ganti font view di google, font ini ikut berubah****/
+  color:#66bfbf;
+  margin:100px 0 0 0
+}
+
+h2{
+  font-size:2.5rem;
+  color:#66bfbf;
+  padding-bottom: 10px;
+
+}
+
+h3{color:#2F86A6;}
+
+hr{
+   border-top: 7px dotted;
+   border-bottom:none;
+   border-color: #F6D7A7;
+   width:3%;
+   margin:100px auto;
+}
+
+a{
+  padding:0 30px 0 30px
+}
+
+.alvin{
+  width:15%;
+}
+
+.bottom-cloud{
+  position:absolute;
+  top:70px;
+  right:400px;
+}
+
+.bottom-container{
+  background-color:#66BFBF;
+  padding-bottom: 20px;
+  padding-top: 10px
+}
+
+.btn{
+  margin:100px 0 100px 0;
+}
+
+.computer{
+  width:25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cabe{
+  width: 25%;
+  float: right;
+  margin-left:30px;
+}
+
+.my-skills{
+  padding-top: 50px;
+}
+
+.get-in-touch{
+  padding-top:50px;
+}
+
+.skill-row{
+  width:50%; /*** ngatur lebar text dan kotak. width makin kecil tulisan jadi turun kebawah paragraf baru***/
+  margin:50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profesi{
+font-weight: normal;
+}
+
+.twitter{
+  position:relative;
+  width: 5%;
+  padding-left: 50px;
+}
+
+.instagram{
+  position: relative;
+}
+
+.nama-gua{
+  width:30%;
+  margin:auto;
+  line-height: 2;
+}
+
+.mountain{
+  height:350px;
+}
+
+.middle-container{
+  margin:100px 0 100px 0;
+  font-size: 1.25rem;
+ }
+
+.profesi{
+  margin-top:100px;
+  margin-bottom: 0;
+}
+
+.top-container{
+  position: relative;
+  background-color: #e4f9f5;
+  padding-top: 50px;
+}
+
+.top-cloud{
+  position: absolute;
+  top:450px;
+  left:450px;
+}
